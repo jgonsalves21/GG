@@ -1,4 +1,7 @@
-
+/**
+* @Joshua Gonsalves
+* DefaultFormatter
+*/
 public class DefaultFormatter implements NumberFormatter
 {
 	public String format(int num)
