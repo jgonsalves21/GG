@@ -1,4 +1,7 @@
-
+/**
+* @Joshua Gonsalves
+* BaseTwoFormatter
+*/
 public class BaseTwoFormatter implements NumberFormatter 
 {
 	
