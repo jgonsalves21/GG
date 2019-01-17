@@ -1,4 +1,7 @@
-
+/**
+* @Joshua Gonsalves
+* DecimalFormat
+*/
 public class DecimalFormat implements NumberFormatter
 	{
 
